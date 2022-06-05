@@ -1,0 +1,2 @@
+e = [1 1; 3 4];
+feta_value = N2_func(@fmy, eta)
